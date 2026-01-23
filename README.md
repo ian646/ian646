@@ -32,7 +32,8 @@ When I'm not working with data, I enjoy creating content, reading and graphic de
 ## 🌱 Currently Learning 
 
 - Advanced SQL
-- Advanced data analysis vidualisation techniques
+- Python
+- Advanced data analysis visualisation techniques
 
 ## 🛠️ Technical Skillset
 
