@@ -25,14 +25,14 @@ When I'm not working with data, I enjoy creating content, reading and graphic de
       
 ## 🔭 What I'm Currently Working On 
 
-- **Power-BI Dashboard:** [Creating an interactive dashboard with clear insights.]  
-- **Power-BI Dashboard:** [Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my Website.]
+- **Power-BI Dashboard:** Creating an interactive dashboard with clear insights.
+- **Power-BI Dashboard:** Creating an interactive marketing dashboard in Power BI.
+- **Content Creation:** Developing new tutorials on data visualization for my Website.
 
 ## 🌱 Currently Learning 
 
-- [Exploring advanced SQL.]
-- [Learning advanced data analysis vidualisation techniques.]
+- Advanced SQL
+- Advanced data analysis vidualisation techniques
 
 ## 🛠️ Technical Skillset
 
