@@ -14,18 +14,18 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data manager who is passionate about data and helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy creating content, reading and graphic design. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy creating reading, watching movies, creating content and graphic design. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://ian646.github.io/DataAnalyst/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Power-BI Dashboard:** Creating an interactive dashboard with clear insights.
+- **Power-BI Dashboard:** End-to-End Python+SQL+Power BI Project.
 - **Power-BI Dashboard:** Creating an interactive marketing dashboard in Power BI.
 - **Content Creation:** Developing new tutorials on data visualization for my Website.
 
