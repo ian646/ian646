@@ -23,7 +23,7 @@ When I'm not working with data, I enjoy creating reading, watching movies, creat
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://ian646.github.io/DataAnalyst/)
 
-## CPD
+## 🏆CPD
 
 - Oct 2026 | Data Analysts' Toolbox - Excel, Power BI, Python, & Tableau
 - Oct 2026 | Data Analysis and Reporting: Excel, Quicksight, and SSRS
