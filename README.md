@@ -22,7 +22,12 @@ When I'm not working with data, I enjoy creating reading, watching movies, creat
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://ian646.github.io/DataAnalyst/)
-      
+
+## CPD
+
+- test1
+- test2
+
 ## 🔭 What I'm Currently Working On 
 
 - **Power-BI Dashboard:** End-to-End Python+SQL+Power BI Project.
@@ -32,7 +37,7 @@ When I'm not working with data, I enjoy creating reading, watching movies, creat
 ## 🌱 Currently Learning 
 
 - Advanced SQL
-- Python
+- Power Query and Power Pivot
 - Advanced data analysis visualisation techniques
 
 ## 🛠️ Technical Skillset
