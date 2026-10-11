@@ -29,7 +29,7 @@ When I'm not working with data, I enjoy creating reading, watching movies, creat
 - Oct 2026 | Data Analysis and Reporting: Excel, Quicksight, and SSRS
 - June 2026 | Microsoft SQL Server
 - Dec 2025 | Microsoft Power BI Data Analyst Professional Certificate
-- Dec 2025 | Google Data Analystics Professional Certificate
+- Dec 2022 | Google Data Analystics Professional Certificate
 
 ## 🔭 What I'm Currently Working On 
 
